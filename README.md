@@ -35,8 +35,12 @@ Configured a virtualized home lab using VMware Fusion on macOS with Kali Linux
 and Ubuntu VMs for penetration testing practice and network analysis.
 
 ### 🗺️ Network Scanning with Nmap
+**[View Full Lab → Nmap-Network-Scanning-Lab](https://github.com/LJones910109/Nmap-Network-Scanning-Lab)**
+
 Performed host discovery and port scanning against Metasploitable2 to identify 
-open services and potential attack vectors.
+open services and potential attack vectors. Used scan types including host 
+discovery, service version detection, OS fingerprinting, and aggressive scans.
+
 
 ### 💥 Exploitation with Metasploit
 Used Metasploit Framework to exploit vulnerabilities on Metasploitable2 in a 
