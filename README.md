@@ -42,9 +42,13 @@ open services and potential attack vectors. Used scan types including host
 discovery, service version detection, OS fingerprinting, and aggressive scans.
 
 
-### 💥 Exploitation with Metasploit
-Used Metasploit Framework to exploit vulnerabilities on Metasploitable2 in a 
-controlled lab environment, documenting findings and remediation steps.
+### 💥 Metasploit Exploitation Lab
+**[View Full Lab → Metasploit-Exploitation-Lab](https://github.com/LJones910109/Metasploit-Exploitation-Lab)**
+
+Exploited known vulnerabilities on Metasploitable2 using Metasploit Framework 
+including vsftpd 2.3.4 backdoor and Samba Usermap Script. Documented findings 
+and remediation recommendations.
+
 
 ### 📡 Packet Analysis with Wireshark
 Captured and analyzed network traffic to identify protocols, suspicious patterns, 
