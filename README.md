@@ -54,6 +54,10 @@ and remediation recommendations.
 Captured and analyzed network traffic to identify protocols, suspicious patterns, 
 and communication flows.
 
+
+| [ARP Spoofing & MITM Detection Lab](https://github.com/LJones910109/ARP-Spookfing-Detection-Lab) | Simulated ARP cache poisoning MITM attack, captured and analyzed traffic in Wireshark, identified IOCs, wrote Snort detection rule | arpspoof · Wireshark · Snort |
+
+
 ### 🔐 Password Cracking with Hashcat
 Practiced hash cracking techniques using Hashcat on macOS via Homebrew to 
 understand password security and storage vulnerabilities.
