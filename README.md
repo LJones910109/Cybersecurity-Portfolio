@@ -60,10 +60,16 @@ and communication flows.
 | [Splunk SIEM ARP Detection Lab](https://github.com/LJones910109/Splunk-SIEM-ARP-Detection-Lab) | Ingested ARP spoofing pcap into Splunk Cloud, wrote SPL detection queries, built SOC detection dashboard | Splunk · tshark · SPL |
 
 
-
 ### 🔐 Password Cracking with Hashcat
 Practiced hash cracking techniques using Hashcat on macOS via Homebrew to 
 understand password security and storage vulnerabilities.
+
+### 🎣 Phishing-to-Malware Attack Simulation & Incident Response
+
+[View Full Lab → Phishing-incident-response](https://github.com/LJones910109/Phishing-incident-response)
+
+Simulated a full phishing attack lifecycle — generated a malicious ELF payload disguised as an invoice document, delivered it to a victim machine, established a reverse Meterpreter shell, performed post-exploitation enumeration, and achieved persistence via crontab. Investigated the incident from a SOC analyst perspective, collected forensic evidence, mapped findings to MITRE ATT&CK, and produced a formal Incident Response Report. | msfvenom · Metasploit · Meterpreter · netstat · crontab · MITRE ATT&CK |
+
 
 ### 🧩 TryHackMe Labs
 Completed rooms including:
