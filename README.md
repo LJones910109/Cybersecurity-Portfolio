@@ -6,7 +6,7 @@ Hand-on cybersecurity labs, python scripts and IT projects by Lillian Jones
 I'm a cybersecurity and networking student at DeVry University (AAS, 4.0 GPA) 
 with a background in business operations and management. I'm actively transitioning 
 into IT/cybersecurity, pursuing CompTIA Security+ and Network+ certifications, 
-and building hands-on skills through home lab work and platforms like TryHackMe.
+and building hands-on skills through home lab work and platforms like VMWare and TryHackMe.
 
 📍 South Euclid, OH (Greater Cleveland Area)  
 🔗 https://linkedin.com/in/thelillianjones  
