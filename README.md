@@ -71,16 +71,9 @@ understand password security and storage vulnerabilities.
 Simulated a full phishing attack lifecycle — generated a malicious ELF payload disguised as an invoice document, delivered it to a victim machine, established a reverse Meterpreter shell, performed post-exploitation enumeration, and achieved persistence via crontab. Investigated the incident from a SOC analyst perspective, collected forensic evidence, mapped findings to MITRE ATT&CK, and produced a formal Incident Response Report. | msfvenom · Metasploit · Meterpreter · netstat · crontab · MITRE ATT&CK |
 
 
-### 🧩 TryHackMe Labs
-Completed rooms including:
-- Windows Fundamentals
-- EICAR Malware Scanning
-- Caesar Cipher / Cryptography Basics
-- Search Skills / OSINT
-
-### 🐍 Python Scripting (CEIS 110)
-Building foundational Python skills including variables, loops, functions, 
-and file handling through DeVry coursework and independent practice.
+### 🐍 Python Tools
+| Project | Description | Tools |
+| --- | --- | ---|
 
 | [Advanced Port Scanner](https://github.com/LJones910109/python-port-scanner) | Multi-threaded TCP port scanner with banner grabbing, service detection, and report generation | Python, socket, threading |
 
