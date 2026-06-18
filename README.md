@@ -82,6 +82,9 @@ Completed rooms including:
 Building foundational Python skills including variables, loops, functions, 
 and file handling through DeVry coursework and independent practice.
 
+| [Advanced Port Scanner](https://github.com/LJones910109/python-port-scanner) | Multi-threaded TCP port scanner with banner grabbing, service detection, and report generation | Python, socket, threading |
+
+
 ---
 
 ## 📚 Currently Learning
