@@ -70,6 +70,12 @@ understand password security and storage vulnerabilities.
 
 Simulated a full phishing attack lifecycle — generated a malicious ELF payload disguised as an invoice document, delivered it to a victim machine, established a reverse Meterpreter shell, performed post-exploitation enumeration, and achieved persistence via crontab. Investigated the incident from a SOC analyst perspective, collected forensic evidence, mapped findings to MITRE ATT&CK, and produced a formal Incident Response Report. | msfvenom · Metasploit · Meterpreter · netstat · crontab · MITRE ATT&CK |
 
+### 🍯 Cowrie SSH Honeypot Lab
+
+[View Full Lab → Cowrie-SSH-Honeypot-Lab](https://github.com/LJones910109/Cowrie-SSH-Honeypot-Lab)
+
+Deployed a Cowrie SSH honeypot to capture and analyze attacker behavior in a controlled home lab environment. Simulated a brute-force login attack, logged 16 events including post-exploitation commands, and built a custom Python log analyzer to parse session data. Mapped all findings to MITRE ATT&CK. | Cowrie · Python · JSON · MITRE ATT&CK |
+
 
 ### 🐍 Python Tools
 | Project | Description | Tools |
