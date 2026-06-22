@@ -55,7 +55,7 @@ Captured and analyzed network traffic to identify protocols, suspicious patterns
 and communication flows.
 
 
-| [ARP Spoofing & MITM Detection Lab](https://github.com/LJones910109/ARP-Spookfing-Detection-Lab) | Simulated ARP cache poisoning MITM attack, captured and analyzed traffic in Wireshark, identified IOCs, wrote Snort detection rule | arpspoof · Wireshark · Snort |
+| [ARP Spoofing & MITM Detection Lab](https://github.com/LJones910109/ARP-Spoofing-Detection-Lab) | Simulated ARP cache poisoning MITM attack, captured and analyzed traffic in Wireshark, identified IOCs, wrote Snort detection rule | arpspoof · Wireshark · Snort |
 
 | [Splunk SIEM ARP Detection Lab](https://github.com/LJones910109/Splunk-SIEM-ARP-Detection-Lab) | Ingested ARP spoofing pcap into Splunk Cloud, wrote SPL detection queries, built SOC detection dashboard | Splunk · tshark · SPL |
 
