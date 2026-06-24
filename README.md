@@ -71,6 +71,16 @@ understand password security and storage vulnerabilities.
 Simulated a full phishing attack lifecycle — generated a malicious ELF payload disguised as an invoice document, delivered it to a victim machine, established a reverse Meterpreter shell, performed post-exploitation enumeration, and achieved persistence via crontab. Investigated the incident from a SOC analyst perspective, collected forensic evidence, mapped findings to MITRE ATT&CK, and produced a formal Incident Response Report. | msfvenom · Metasploit · Meterpreter · netstat · crontab · MITRE ATT&CK |
 
 
+## 🛡 AI-Powered SOC Assistant
+**Tools:** Python, Claude AI API, MITRE ATT&CK  
+**Repo:** [soc-assistant](https://github.com/LJones910109/soc-assistant)
+
+- Built a command-line tool to automate phishing email detection and SOC alert triage using the Anthropic Claude API
+- Engineered structured AI prompts returning analyst-grade reports with verdict, risk score, IOCs, and MITRE ATT&CK mapping
+- Dual modules: phishing classifier with confidence scoring and Tier 1 alert triage with escalation recommendations
+
+
+
 ### 🍯 Cowrie SSH Honeypot Lab
 
 [View Full Lab → Cowrie-SSH-Honeypot-Lab](https://github.com/LJones910109/Cowrie-SSH-Honeypot-Lab)
